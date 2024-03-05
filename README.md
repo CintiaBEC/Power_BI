@@ -5,6 +5,10 @@ Cada proyecto final (uno por módulo) tenía sus propios archivos para trabajar 
 el proyecto final y los significados de las etiquetas de los archivos .xlsx trabajados.
 A continuación se dejan archivos de referencia del curso:
 
-[Referencias curso avanzado Power Bi Crehana.txt](https://github.com/CintiaBEC/Power_BI/files/14489796/Referencias.curso.avanzado.Power.Bi.Crehana.txt)[Referencias curso básico Power Bi Crehana.txt](https://github.com/CintiaBEC/Power_BI/files/14489797/Referencias.curso.basico.Power.Bi.Crehana.txt)[Referencias curso intermedio Power Bi Crehana.txt](https://github.com/CintiaBEC/Power_BI/files/14489798/Referencias.curso.intermedio.Power.Bi.Crehana.txt)
+[Referencias curso avanzado Power Bi Crehana.txt](https://github.com/CintiaBEC/Power_BI/files/14489796/Referencias.curso.avanzado.Power.Bi.Crehana.txt)
+
+[Referencias curso básico Power Bi Crehana.txt](https://github.com/CintiaBEC/Power_BI/files/14489797/Referencias.curso.basico.Power.Bi.Crehana.txt)
+
+[Referencias curso intermedio Power Bi Crehana.txt](https://github.com/CintiaBEC/Power_BI/files/14489798/Referencias.curso.intermedio.Power.Bi.Crehana.txt)
 
 
