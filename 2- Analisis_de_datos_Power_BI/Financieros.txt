@@ -1,0 +1,46 @@
+Análisis y visualización de datos con Power BI
+
+Este proyecto forma parte del curso de formación en Power BI dictado por el Profesor Jorge Karam de la Plataforma Crehana en asociación con el Programa Nacional
+de Becas y Oportunidades CILSA.
+
+El proyecto final consiste en un reporte de información financiera que contiene un análisis profundo, simple y compacto los datos brindados por el docente
+en un archivo de extensión .xlsx denominado "Financial Sample".
+
+En el mismo se analizaron datos y se obtuvieron varias páginas con análisis general de las finanzas y de ventas en relación de los descuentos. Para ello se utilizaron
+diferentes herramientas que Power BI ofrece:
+
+1. Conexión de tablas.
+2. Jerarquías por grupo o nivel de detalle.
+3. Generalidades: Modelo de datos tipo estrella y snowflake (bola de nieve).
+4. DAX:
+   a. Creación de tabla de calendario (Fecha)
+   b. Funciones: CALCULATE ( ), DATEDIFF ( ),
+      AVERAGE ( ), COUNT ( ), SUM ( ), FORMAT ( ), TOTALQTD ( ).
+5. Visualizaciones intermedias: Tablas pivote, mapas y gráficas de doble eje.
+6. Filtros al reporte e imágenes.
+
+Etiquetas de cada columna y sus significados
+
+Segment = tipo de empresa
+Country = país
+Product = producto
+Discount Band = banda de descuentos
+Units Sold = unidades vendidas
+Manufacturing = precio de manufactura
+Sale Price = precio de ventas
+Gross Sales = ventas netas
+Discount = descuentos
+Sales = ventas
+COGS = costo good sale
+Profit = ganancia
+Date = fecha
+Month Number = número de mes
+Month Name = nombre del mes
+Year = Año
+Mointh Number = valor extraído de las fechas para ver el mes por separado.
+Month Name = valor extraído de date para ver el nombre del mes por separado.
+Factura a hoy = muestra los días que transcurrieron desde la emisión de la factura hasta el día de hoy.
+Duplicados = columna para comprobar si las columnas "Gross sale" y "Sales" estaban duplicadas en cada registro.
+Balance_ventas = diferencia entre ventas totales y ventas para corroborar que no hubo pérdidas.
+Gancia_prec_venta = es la diferencia entre el precio de venta y el de manufactura. Ayuda a corroborar si el costo de 
+manufactura es mayor al de venta y si esto puede generar pérdidas.

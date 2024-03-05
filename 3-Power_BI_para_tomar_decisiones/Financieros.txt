@@ -1,0 +1,47 @@
+Power BI para la toma de decisiones 
+
+Este proyecto forma parte del curso de formación en Power BI dictado por el Profesor Jorge Karam de la Plataforma Crehana en asociación con el Programa Nacional
+de Becas y Oportunidades CILSA.
+
+El proyecto final consistió en crear un portafolio de reportes de alto nivel a partir de los archivos de extensión .xlsx "Financial Sample" y "Encargados Librerías Crehana"
+
+Para ello se utilizaron diferentes herramientas que Power BI ofrece:
+
+1. Gráficas de dispersión, de columnas agrupadas, de pastel y de cascada.
+2. Diferentes niveles de filtros que tiene Power BI (de objeto visual y de página).
+3. Formato condicional de las gráficas.
+4. Con las visualizaciones se usó DAX avanzado: Utilización de variables en las medidas, generación de etiquetas
+dinámicas con el uso de las variables. 
+5.Uso de funciones:
+   LOOKUPVALUE (), COUNTROWS (), CONCATENATEX () y VALUES ().
+6. Optimización del modelado utilizando Performance Analyzer, revelando cuántos segundos o
+microsegundos se tarde en interactuar con el usuario e identificación de cuál es el objeto visual
+que demora más en cargarse.
+7. Hipervínculos.
+8. Análisis los datos enfocados a la extracción y transformación de los mismos. Agregando tooltips. Se generaron funciones de parámetros.
+
+Etiquetas de cada columna y sus significados
+
+Segment = tipo de empresa
+Country = país
+Product = producto
+Discount Band = banda de descuentos
+Units Sold = unidades vendidas
+Manufacturing = precio de manufactura
+Sale Price = precio de ventas
+Gross Sales = ventas netas
+Discount = descuentos
+Sales = ventas
+COGS = costo good sale
+Profit = ganancia
+Date = fecha
+Month Number = número de mes
+Month Name = nombre del mes
+Year = Año
+Mointh Number = valor extraído de las fechas para ver el mes por separado.
+Month Name = valor extraído de date para ver el nombre del mes por separado.
+Factura a hoy = muestra los días que transcurrieron desde la emisión de la factura hasta el día de hoy.
+duplicados = columna para comprobar si las columnas "Gross sale" y "Sales" estaban duplicadas en cada registro.
+Balance_ventas = diferencia entre ventas totales y ventas para corroborar que no hubo pérdidas.
+Gancia_prec_venta = es la diferencia entre el precio de venta y el de manufactura. Ayuda a corroborar si el costo de manufactura 
+es mayor al de venta y si esto puede generar pérdidas.

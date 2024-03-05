@@ -1,0 +1,40 @@
+Introducción al análisis y visualización de datos con Power BI
+
+Este proyecto forma parte del curso de formación en Power BI dictado por el Profesor Jorge Karam de la Plataforma Crehana en asociación con el Programa Nacional
+de Becas y Oportunidades CILSA.
+
+Para este trabajo se utilizó una tabla con información de Futbol fantasy que comprendió datos entre los años 2014 y 2018, dicha información se trajo y
+trabajó desde la web oficial: https://www.nfl.com/fantasy-football/free-fantasy-football-leagues.
+
+En el proyecto se elaboró un reporte y se crearon visualizaciones de la liga de fútbol americano de USA para resaltar
+individualismos: se escogieron jugadores, posiciones y equipos.
+
+Para ello se utilizaron diferentes herramientas que Power BI ofrece:
+
+1- Transformaciones básicas como cambiar los nombres de las columnas y de las tablas desde Power Query.
+2- Utilizar Power Query para categorizar, ordenar datos y columnas.
+3- Usar DAX para crear nuevas medidas rápidas, medidas y columnas calculadas, utilizando funciones lógicas y funciones básicas de DAX.
+4- Hacer visualizaciones (objetos visuales) de tablas, matrices, gráficas de barras, tarjetas y gráfico de pastel (pie chart). 
+5- Agregar etiquetas, colores, bordes y otras características para personalizar las visualizaciones. 
+
+Etiquetas de cada columna y sus significados
+
+year = año
+name= nombre jugador
+Tm = equipos
+GS = juegos
+P-Cmp = pases completados
+P-Att = intento de pase
+P-Yds = yardas de pase
+P-TD = pases de touchdown
+P-int = intercepciones de pase
+RU-Att = intentos de carrera
+RU-TD= touchdown de carrera
+RE = recepciones/ pases por aire
+FantPt = puntos de Fantasy
+PPG = puntos por juego
+QB = Quarterback / mariscal de campo
+RB = Running back /fullback / corredor
+WR = Wide receiver / receptor abierto
+TE =  Tight end / ala cerrada
+FantPos = posiciones
